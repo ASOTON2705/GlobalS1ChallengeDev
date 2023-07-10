@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS bd_tarea;
+CREATE DATABASE bd_tarea;
+USE bd_tarea;
